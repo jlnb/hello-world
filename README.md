@@ -7,4 +7,7 @@ My hello-world repository
 
 And [this][ghubhp] is a link to the github homepage.
 
+Additional information is added. This information is in **no** way
+helpful to anybody. 
+
 [ghubhp]: https://www.github.com
